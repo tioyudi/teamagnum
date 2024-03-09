@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tioyudi/teamagnum.git"
+    "url": "https://github.com/tioyudi/teamagnum"
   },
   "author": "",
   "license": "ISC",
